@@ -1,0 +1,12 @@
+.comment-div{
+    background-color: rgb(218, 184, 218);
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
